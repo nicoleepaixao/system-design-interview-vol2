@@ -1,2 +1,5 @@
-# system-design-interview-vol2
-Comprehensive study notes from System Design Interview Vol. 2 by Alex Xu - Advanced system designs including Proximity Service, Nearby Friends, Google Maps, Distributed Message Queue, and real-world case studies
+# System Design Interview Vol.2
+
+GitHub: https://github.com/nicoleepaixao/system-design-interview-vol2
+
+Crie uma pasta por capítulo e escreva suas notas em `notas.md`.
